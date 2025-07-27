@@ -33,7 +33,7 @@ git clone https://github.com/cruelcodes/Nft-floor-Tracker.git
 cd Nft-floor-Tracker
 npm install
 ```
-Create .env file
+### 2. Create .env file
 ```bash
 DISCORD_TOKEN=your_discord_bot_token
 DISCORD_CHANNEL_ID=your_channel_id
